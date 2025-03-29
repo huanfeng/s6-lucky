@@ -1,2 +1,2 @@
 #!/bin/bash
-exec ./lucky -c ./config/lucky.conf
+exec ./lucky -c /lucky_config/lucky.conf
